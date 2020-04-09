@@ -12,17 +12,22 @@ MQ
   - RocketMQ
   - kafka
   - RabbitMQ
+  
 Redis
+
 ES
+
 SpringCloud
   - 了解SpringCloud的五大基本组件
   euraka，Hystrix，Ribbon，Fegin，zuul
   除此还有config,bus等
   - 不知道这些组件的原理
   - 不知道SpringCloud使用过程中会有哪些常见问题
+  
 Dubbo
   - rpc调用
   - 基本一无所知
+  
 
 ### (2)自己在项目经验和生产经验上做的如何？你会的这些技术，自己在项目里到底用过多少？用的有多复杂？用的时候考虑了哪些项目细节和生产细节？
 
